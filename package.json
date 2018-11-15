@@ -6,7 +6,7 @@
   "scripts": {
     "test": "karma start",
     "teamcitytest": "karma start --reporters teamcity --single-run --browsers PhantomJS --colors false",
-    "start": "http-server . -c-1 -a localhost -p 8000"  
+    "start": "http-server . -c-1"  
   },
   "author": "",
   "license": "ISC",
