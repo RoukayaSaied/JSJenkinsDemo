@@ -7,6 +7,6 @@ export default class Hello{
     }
 
     greeting(){
-        return `Hello, ${this.name}`;
+        return `Hello and welcome, ${this.name}`;
     }
 }
